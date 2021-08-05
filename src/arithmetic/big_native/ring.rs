@@ -1,3 +1,6 @@
+// Taken from: https://gitlab.com/Toru3/ring-algorithm/-/blob/c4eaf606e88cb62cf87df98c99f923b253ad976a/src/lib.rs
+// Original code is licensed under terms of: MIT OR Apache-2.0
+
 use num_bigint::Sign;
 use num_traits::Signed;
 
